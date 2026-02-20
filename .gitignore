@@ -30,3 +30,9 @@ node_modules/
 # Exploration artifacts
 EXPLORATION-*.md
 EXPLORATION-*.txt
+
+# Local runtime/generated artifacts
+.opencode/telegram-bridge/sessions/
+.opencode/tools/__pycache__/
+.opencode/vendor/
+opencode
